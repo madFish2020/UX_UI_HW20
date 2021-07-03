@@ -1,0 +1,16 @@
+.nav-justified{
+    background-color: #DAE2E4;
+    height: 70px;
+    width: 100%;
+}
+.nav-link{
+    color: black;
+}
+.media-body{
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.banner{
+    width: 100%;
+}
