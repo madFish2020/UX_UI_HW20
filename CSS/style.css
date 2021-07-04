@@ -1,9 +1,15 @@
+.navbar{
+    background-color: #A64044;
+}
 .nav-justified{
     background-color: #DAE2E4;
     height: 70px;
     width: 100%;
 }
 .nav-link{
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+    font-size: 24px;
     color: black;
 }
 .media-body{
@@ -12,5 +18,21 @@
     margin-left: 30px;
 }
 .banner{
-    width: 100%;
+    width: 109%;
+    margin-top: 40px;
+    margin-left: -46px;
+    margin-bottom: 40px;
+}
+p{
+    text-align:left;
+    font-family: 'Open-Sans',sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.about{
+    margin-top: 40px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 64px;
+    font-weight: 700px;
+    color: black;
 }
