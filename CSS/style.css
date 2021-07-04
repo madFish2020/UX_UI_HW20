@@ -1,11 +1,14 @@
+body{
+    background-color: #DAE2E4;
+}
 .logo{
    margin-bottom: -30px;
 }
 .navbar{
     background-color: #A64044;
 }
-
 .nav-justified{
+    
     background-color: #DAE2E4;
     height: 70px;
     width: 100%;
@@ -21,6 +24,7 @@
     text-align: center;
     margin-right: 30px;
     margin-left: 30px;
+    background-color: white;
 }
 .banner{
     width: 109%;
