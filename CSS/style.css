@@ -2,13 +2,23 @@ body{
     background-color: #DAE2E4;
 }
 .logo{
-   margin-bottom: -30px;
+   margin-bottom: -80px;
+}
+.form-control{
+    border: solid 2px black;
+    height: 44px;
+    width: 401px;
+
+}
+.btn-default{
+    background-color: #608790;
+    color: white;
+    height: 44px;
 }
 .navbar{
     background-color: #A64044;
 }
 .nav-justified{
-    
     background-color: #DAE2E4;
     height: 70px;
     width: 100%;
@@ -20,6 +30,13 @@ body{
     font-size: 24px;
     color: black;
 }
+.home{
+    margin-left: 40px;
+}
+.media{
+    background-color: white;
+}
+
 .media-body{
     text-align: center;
     margin-right: 30px;
@@ -45,3 +62,36 @@ p{
     font-weight: 700px;
     color: black;
 }
+.footer{
+    margin-bottom: 30px;
+}
+.col{
+    border: none;
+    text-align: center;
+}
+.bottom{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+h6{
+    margin-top: 30px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;  
+}
+a:hover{
+    color: white;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: "Rubik", sans-serif;
+}
+li:hover{
+    background-color: #608791;
+}
+
